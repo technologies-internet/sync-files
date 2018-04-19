@@ -1,0 +1,24 @@
+{
+  "name": "sync-files",
+  "version": "1.0.0",
+  "description": "Exemple d'un serveur p2p pour échanger des fichiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technologies-internet/sync-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technologies-internet/sync-files/issues"
+  },
+  "homepage": "https://github.com/technologies-internet/sync-files#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "glob": "^7.1.2",
+    "request": "^2.85.0"
+  }
+}
